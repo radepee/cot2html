@@ -1,8 +1,9 @@
 # cot2html
-Ce script index.php consulte le dossier ./cotcot et ne garde que le dernier fichier .cotocot, par ordre alphanumérique. Ceci me permet d'incrémenter le nom du fichier, et la page web suit automatiquement. Si tu as plusieurs catégories, il faut donc recopier ces scripts autant de fois dans des dossiers dédiés.
 
 A propos des champs de l'URL
-"http://127.0.0.1/dist/index.php?item=poudet&tabStart=256&tabEnd=16&zoom=0.6&scroll=1"
+"http://127.0.0.1/dist/index.php?file=cotcot%2Ftst2.cotcot&item=poudet&tabStart=256&tabEnd=16&zoom=0.6&scroll=1"
+
+<b>file=cotcot%2Ftst2.cotcot</b> (Sélectionne un cotcot, dans cet exemple <b>cotcot/tst2.cotcot</b>)
 
 <b>item=lst</b> (liste d'inscription)
 
