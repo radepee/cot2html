@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="tab1" width="100%" height="100%"  viewBox="-6 -6 134 134">
+<desc>
+XCircuit Version 3.9
+File "tab1.ps" Page 1
+</desc>
+<g stroke="black">
+<path visibility="hidden" d="M0,0 L0,128 128,128 128,0 z" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#adff2f" />
+<path d="M10,98 L49,98 49,117 10,117 " fill="none" stroke-width="2.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,69 L49,69 49,88 10,88 " fill="none" stroke-width="2.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,40 L49,40 49,59 10,59 " fill="none" stroke-width="2.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,11 L49,11 49,30 10,30 " fill="none" stroke-width="2.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M49,107 L87,107 87,78 49,78 " fill="none" stroke-width="2.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M49,50 L87,50 87,21 49,21 " fill="none" stroke-width="2.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M87,93 L106,93 106,35 87,35 " fill="none" stroke-width="2.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M106,64 L121,64 " fill="none" stroke-width="2.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+</g>
+</svg>

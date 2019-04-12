@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   id="clapou" width="100%" height="100%"  viewBox="-6 -6 134 134">
+<desc>
+XCircuit Version 3.9
+File "clapou.ps" Page 1
+</desc>
+<g stroke="black">
+<path d="M10,112 L10,68 54,68 54,112 z" fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M21,68 L21,112 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M32,112 L32,68 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M43,68 L43,112 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,79 L54,79 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,90 L54,90 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,101 L54,101 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,68 L10,79 21,79 21,68 z" fill="#000000" stroke="none" />
+<path d="M21,79 L21,90 32,90 32,79 z" fill="#000000" stroke="none" />
+<path d="M32,90 L32,101 43,101 43,90 z" fill="#000000" stroke="none" />
+<path d="M43,101 L43,112 54,112 54,101 z" fill="#000000" stroke="none" />
+<path d="M92,24 L116,24 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M92,52 L116,52 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M92,80 L116,80 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M92,104 L116,104 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,60 L10,16 54,16 54,60 z" fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M21,16 L21,60 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M32,60 L32,16 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M43,16 L43,60 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,27 L54,27 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,38 L54,38 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,49 L54,49 " fill="none" stroke-width="1.4" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M10,16 L10,27 21,27 21,16 z" fill="#000000" stroke="none" />
+<path d="M21,27 L21,38 32,38 32,27 z" fill="#000000" stroke="none" />
+<path d="M32,38 L32,49 43,49 43,38 z" fill="#000000" stroke="none" />
+<path d="M43,49 L43,60 54,60 54,49 z" fill="#000000" stroke="none" />
+<path d="M72,26 L80,16 80,32 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M72,48 C78,34 88,44 74,58 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M74,58 L82,58 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M78,80 C88,78 80,62 74,74 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M78,80 C88,82 80,98 74,86 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M72,108 L82,98 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M72,108 L84,108 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path d="M82,104 L82,114 " fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#000000" />
+<path visibility="hidden" d="M0,0 L0,128 128,128 128,0 z" fill="none" stroke-width="2" stroke-linejoin="bevel" stroke-linecap="round" stroke="#adff2f" />
+</g>
+</svg>

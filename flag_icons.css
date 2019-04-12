@@ -1,0 +1,100 @@
+     .flag_icon
+     {
+	 height:        calc( 20px * var(--rescale));
+         margin-left:   calc(  3px * var(--rescale));
+         margin-right:  calc(  3px * var(--rescale));
+         margin-top:    calc(  1px * var(--rescale));
+         margin-bottom: calc( -2px * var(--rescale));
+     }
+     .flag_icon_sq
+     {
+	 height:        calc( 23px * var(--rescale));
+         margin-left:   calc(  7px * var(--rescale));
+         margin-right:  calc(  7px * var(--rescale));
+         margin-top:    calc( -1px * var(--rescale));
+         margin-bottom: calc( -2px * var(--rescale));
+     }
+     .flag_icon_21
+     {
+	 height:        calc( 18px * var(--rescale));
+         margin-top:    calc(  2px * var(--rescale));
+         margin-bottom: calc( -2px * var(--rescale));
+     }
+
+
+     .flag_iconsmall
+     {
+	 height: calc(13.33px * var(--rescale));
+         margin-left: calc( 2px * var(--rescale));
+         margin-right: calc( 2px * var(--rescale));
+         margin-top: calc( 0.66px * var(--rescale));
+         margin-bottom: calc( -1.33px * var(--rescale));
+     }
+     .flag_icon_sqsmall
+     {
+	 height:        calc(15.33px * var(--rescale));
+         margin-left:   calc( 4.66px * var(--rescale));
+         margin-right:  calc( 4.66px * var(--rescale));
+         margin-top:    calc(-0.66px * var(--rescale));
+         margin-bottom: calc(-1.33px * var(--rescale));
+     }
+     .flag_icon_21small
+     {
+	 height: calc(12px * var(--rescale));
+         margin-top: calc( 1.33px * var(--rescale));
+         margin-bottom: calc( -1.33px * var(--rescale));
+     }
+
+     .flag_page 
+     {
+         background: #000;
+     }
+     
+     .podium1
+     {
+         position:absolute;
+         top : 10vh;
+         left: 33vw;
+         transform: scale(1.41);
+     }
+     .podium2
+     {
+         position:absolute;
+         top : 55vh;
+         left: 1vw;          }
+     .podium3
+     {
+         position:absolute;
+         top : 55vh;
+         left: 40vw;
+     }
+     .podium4
+     {
+         position:absolute;
+         top : 55vh;
+         left: 70vw;
+     }    
+       .flag_iconhuge
+     {
+	 height: calc(18vw * var(--rescale));
+         margin-left: calc( 2px * var(--rescale));
+         margin-right: calc( 2px * var(--rescale));
+         margin-top: calc( 0.66px * var(--rescale));
+         margin-bottom: calc( -1.33px * var(--rescale));
+     }
+     .flag_icon_sqhuge
+     {
+	 height:        calc(20vw * var(--rescale));
+         margin-left:   calc( 4.66px * var(--rescale));
+         margin-right:  calc( 4.66px * var(--rescale));
+         margin-top:    calc(-0.66px * var(--rescale));
+         margin-bottom: calc(-1.33px * var(--rescale));
+     }
+     .flag_icon_21huge
+     {
+	 height: calc(17vw * var(--rescale));
+         margin-top: calc( 1.33px * var(--rescale));
+         margin-bottom: calc( -1.33px * var(--rescale));
+     }
+
+    
