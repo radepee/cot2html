@@ -133,7 +133,7 @@ function fillSessionWithTitreLong()
 	    $DOMxml->load( $file );
 
 	    $competXml = $DOMxml->documentElement;
-	    $titre[] = getAttribut( $competXml, 'TitreLong' );
+	    $titre[$file] = getAttribut( $competXml, 'TitreLong' );
 	}
 
 	$_SESSION[ 'titreList'] = $titre;

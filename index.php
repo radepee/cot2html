@@ -1,23 +1,33 @@
 <?php
-session_start();
 
 require_once( "tools.php" );
 require_once( "my_phase_pointage.php" );
 require_once( "my6.php" ); // my3
 require_once( "functions.php" );
 require_once( "pays.php" );
+require_once( "selcot.php");
 
-$_SESSION[ 'cotcotFiles' ] = explorer( 'cotcot/' );
-//fillSessionWithTitreLong();
-	if( count ($_SESSION[ 'cotcotFiles' ]) < 1)
-	{
-	    echo  "Aucun fichier<br></body></html>";
-            exit();
-	}
-$files = $_SESSION[ 'cotcotFiles' ]; 
-arsort ($files);
-foreach ($files as $key => $filename) break;
-//       echo "FILE:".$filename."<br>";
+
+if (isset($_GET['file']))
+{
+    $filename = $_GET['file']; 
+    
+    if (!check_filename ($filename))
+    {
+        echo "Invalid file name [$filename]. redirecting to cotocot selection";
+//        header("Location: selcotpage.php");
+        die();
+    }
+}
+else
+{
+    echo "Missing file name. Redirecting to cotocot selection";
+    header("Location: selcotpage.php");
+    die();
+}
+
+$fileqry="?file=" . urlencode($filename);
+
 $xml = new DOMDocument( "1.0", "utf-8" );
 $xml->load( $filename);
       
@@ -191,27 +201,27 @@ $T = '"clatab"'; $S = ($item=='clatab')?'_dis':'';
     ?>
         <body>
                 <div  class="spu23hp"><?php echo "$head_title </div>
-	<a href='index.php?item=lst&tabStart=256&tabEnd=16&zoom=0.8&scroll=$scroll'>
+	<a href='index.php$fileqry&item=lst&tabStart=256&tabEnd=16&zoom=0.8&scroll=$scroll'>
 	    <div class='button_div'>
 		<img src='ban_listel.svg' class='u23hp'>
 	    </div>
 	</a>
-	<a href='index.php?item=poudet&tabStart=256&tabEnd=16&zoom=0.6&scroll=$scroll'>
+	<a href='index.php$fileqry&item=poudet&tabStart=256&tabEnd=16&zoom=0.6&scroll=$scroll'>
 	    <div class='button_div'>
 		<img src='ban_pou.svg' class='u23hp'>
 	    </div>
 	</a>
-	<a href='index.php?item=clapou&tabStart=256&tabEnd=16&zoom=0.63&scroll=$scroll'>
+	<a href='index.php$fileqry&item=clapou&tabStart=256&tabEnd=16&zoom=0.63&scroll=$scroll'>
 	    <div class='button_div'>
 		<img src='ban_clapou.svg' class='u23hp'>
 	    </div>
 	</a>
-	<a href='index.php?item=tab&tabStart=256&tabEnd=2&zoom=0.5&scroll=$scroll'>
+	<a href='index.php$fileqry&item=tab&tabStart=256&tabEnd=2&zoom=0.5&scroll=$scroll'>
 	    <div class='button_div'>
 		<img src='ban_tab.svg' class='u23hp'>
 	    </div>
 	</a>
-	<a href='index.php?item=clatab&tabStart=256&tabEnd=2&zoom=0.7&scroll=$scroll'>
+	<a href='index.php$fileqry&item=clatab&tabStart=256&tabEnd=2&zoom=0.7&scroll=$scroll'>
 	    <div class='button_div'>
 		<img src='ban_clatab.svg' class='u23hp'>
 	    </div>
@@ -314,22 +324,22 @@ $mixte= mixteMaleFemale ($xml);
 switch ($mixte)
 {
     case 'F':
-    echo "<a class='home' href='index.php?item=lst&tabStart=256&tabEnd=$te'>Tireuses</a><br>";
+    echo "<a class='home' href='index.php$fileqry&item=lst&tabStart=256&tabEnd=$te'>Tireuses</a><br>";
     break;  
     case 'FM':
-    echo "<a class='home' href='index.php?item=lst&tabStart=256&tabEnd=$te'>Tireuses et tireurs</a><br>";
+    echo "<a class='home' href='index.php$fileqry&item=lst&tabStart=256&tabEnd=$te'>Tireuses et tireurs</a><br>";
     break;  
     case 'M':
-    echo "<a class='home' href='index.php?item=lst&tabStart=256&tabEnd=$te'>Tireurs</a><br>";
+    echo "<a class='home' href='index.php$fileqry&item=lst&tabStart=256&tabEnd=$te'>Tireurs</a><br>";
     break;  
 }
 
 if ($mixte != 'E')
 {
-echo "<a class='home' href='index.php?item=pou&tabStart=256&tabEnd=$te'>Poules</a><br>";
-echo "<a class='home' href='index.php?item=clapou&tabStart=256&tabEnd=$te'>Classement poules</a><br>";
-echo "<a class='home' href='index.php?item=tab&tabStart=256&tabEnd=$te'>Tableau</a><br>";
-echo "<a class='home' href='index.php?item=clatab&tabStart=256&tabEnd=$te'>Classement tableau</a><br>";
+echo "<a class='home' href='index.php$fileqry&item=pou&tabStart=256&tabEnd=$te'>Poules</a><br>";
+echo "<a class='home' href='index.php$fileqry&item=clapou&tabStart=256&tabEnd=$te'>Classement poules</a><br>";
+echo "<a class='home' href='index.php$fileqry&item=tab&tabStart=256&tabEnd=$te'>Tableau</a><br>";
+echo "<a class='home' href='index.php$fileqry&item=clatab&tabStart=256&tabEnd=$te'>Classement tableau</a><br>";
 }
 ?>
 	    <?php
