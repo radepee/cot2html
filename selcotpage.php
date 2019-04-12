@@ -7,7 +7,22 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>SELECTION</title>
+        <style>
+            table
+            {
+                   border-collapse: collapse;
+            }
+            table td 
+            {
+                border : 1px solid black;
+            }
+            table tr:hover 
+            {
+                background-color : #AAA;
+            }
+            
+        </style>
     </head>
     <body>
         <h1>Selection cotcot</h1>

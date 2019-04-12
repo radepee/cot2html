@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CompetitionIndividuelle>
+<!--
+           By BellePoule (V4.45)
+
+   http://betton.escrime.free.fr/index.php/bellepoule
+-->
+<CompetitionIndividuelle Couleur="#ada7c8" Championnat="OphardtTeamSportevent" ID="14177" Annee="2017" Arme="E" Sexe="M" Organisateur="" Categorie="M5" Niveau="L" Date="09.09.2017" Appel="12:00" Scratch="12:00" Debut="12:00" TitreLong="Tournoi de sélection U17/U20 U17 Lausanne" URLorganisateur="" ScoreAleatoire="1" TailleMinimaleEquipe="3" ClassementDefautEquipe="9999" ClassementManuel="0" Lieu="">
+ <Tireurs>
+  <Tireur ID="13" Nom="FAVRE" Prenom="Hadrien" DateNaissance="26.08.2001" Sexe="M" Nation="SUI" Club="CES SIERRE" Licence="SUI00004178" Ranking="1" Exporte="0" Statut="Q" Ophardt_ID="311201" paid="false" Info="inscription par le club CES Sierre par ALEXANDRA Charles" TVName_long="FAVRE Hadrien" TVName_short="FAVRE H." SCBName="FAVRE"/>
+  <Tireur ID="48" Nom="WICHT" Prenom="Matteo" DateNaissance="06.02.2002" Sexe="M" Nation="SUI" Club="SEG GENEVE" Licence="SUI00002962" Ranking="4" Exporte="0" Statut="Q" Ophardt_ID="310538" paid="false" Info="inscription par le club SEG Geneve par CAGNET Jean-Marc" TVName_long="WICHT Matteo" TVName_short="WICHT M." SCBName="WICHT"/>
+  <Tireur ID="6" Nom="CASTEJON" Prenom="Davide" DateNaissance="06.02.2002" Sexe="M" Nation="SUI" Club="SAL LUGANO" Licence="SUI00000000" Ranking="5" Exporte="0" Statut="Q" Ophardt_ID="318737" paid="false" Info="club registration by SAL Lugano by SALLUGANOADMIN" TVName_long="CASTEJON Davide" TVName_short="CASTEJON D." SCBName="CASTEJON"/>
+  <Tireur ID="10" Nom="ERBETTA" Prenom="Diego" DateNaissance="30.05.2002" Sexe="M" Nation="SUI" Club="CAL LAUSANNE" Licence="SUI00003248" Ranking="6" Exporte="0" Statut="Q" Ophardt_ID="310698" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="ERBETTA Diego" TVName_short="ERBETTA D." SCBName="ERBETTA"/>
+  <Tireur ID="34" Nom="RAMUZ" Prenom="Jeremy" DateNaissance="04.02.2003" Sexe="M" Nation="SUI" Club="FCB BERN" Licence="SUI00000000" Ranking="7" Exporte="0" Statut="Q" Ophardt_ID="317042" paid="false" Info="Vereinsmeldung von FCB Bern durch NIELABA Gabriel" TVName_long="RAMUZ Jeremy" TVName_short="RAMUZ J." SCBName="RAMUZ"/>
+  <Tireur ID="20" Nom="GRUNDER" Prenom="Pascal" DateNaissance="30.03.2002" Sexe="M" Nation="SUI" Club="AFCB BERN" Licence="SUI00004124" Ranking="8" Exporte="0" Statut="Q" Ophardt_ID="311162" paid="false" Info="Vereinsmeldung von AFCB Bern durch AFCB Bern" TVName_long="GRUNDER Pascal" TVName_short="GRUNDER P." SCBName="GRUNDER"/>
+  <Tireur ID="9" Nom="EBNÖTHER" Prenom="Alexandr" DateNaissance="02.04.2002" Sexe="M" Nation="SUI" Club="FCZ ZUG" Licence="SUI00000000" Ranking="9" Exporte="0" Statut="Q" Ophardt_ID="332681" paid="false" Info="Vereinsmeldung von FCZ Zug durch De Sepibus Severin" TVName_long="EBNOETHER Alexandr" TVName_short="EBNOETHER A." SCBName="EBNOETHER"/>
+  <Tireur ID="15" Nom="FUHRIMANN" Prenom="Jonathan" DateNaissance="15.03.2002" Sexe="M" Nation="SUI" Club="FCB BERN" Licence="SUI00000000" Ranking="11" Exporte="0" Statut="Q" Ophardt_ID="341188" paid="false" Info="Vereinsmeldung von FCB Bern durch NIELABA Gabriel" TVName_long="FUHRIMANN Jonathan" TVName_short="FUHRIMANN J." SCBName="FUHRIMANN"/>
+  <Tireur ID="14" Nom="FRAUCHIGER" Prenom="Alastair" DateNaissance="26.04.2001" Sexe="M" Nation="SUI" Club="FCB BERN" Licence="SUI00000000" Ranking="12" Exporte="0" Statut="Q" Ophardt_ID="328752" paid="false" Info="Vereinsmeldung von FCB Bern durch NIELABA Gabriel" TVName_long="FRAUCHIGER Alastair" TVName_short="FRAUCHIGER A." SCBName="FRAUCHIGER"/>
+  <Tireur ID="40" Nom="SCHEUNER" Prenom="Joël" DateNaissance="25.12.2002" Sexe="M" Nation="SUI" Club="SEB BASEL" Licence="SUI00004105" Ranking="13" Exporte="0" Statut="Q" Ophardt_ID="311148" paid="false" Info="Vereinsmeldung von SEB Basel durch BECKMANN Manfred" TVName_long="SCHEUNER Joel" TVName_short="SCHEUNER J." SCBName="SCHEUNER"/>
+  <Tireur ID="21" Nom="HUNGERBÜHLER" Prenom="Alexandre" DateNaissance="30.01.2001" Sexe="M" Nation="SUI" Club="CAL LAUSANNE" Licence="SUI00003038" Ranking="14" Exporte="0" Statut="Q" Ophardt_ID="310572" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="HUNGERBUEHLER Alexandre" TVName_short="HUNGERBUEHLER A." SCBName="HUNGERBUEHLER"/>
+  <Tireur ID="19" Nom="GIAMPA" Prenom="Gianluca" DateNaissance="10.02.2001" Sexe="M" Nation="SUI" Club="BFC BASEL" Licence="SUI00000000" Ranking="16" Exporte="0" Statut="Q" Ophardt_ID="325496" paid="false" Info="Vereinsmeldung von BFC Basel durch Basler Fechtclub" TVName_long="GIAMPA Gianluca" TVName_short="GIAMPA G." SCBName="GIAMPA"/>
+  <Tireur ID="28" Nom="MAYOR" Prenom="Lucas" DateNaissance="12.02.2001" Sexe="M" Nation="SUI" Club="CAL LAUSANNE" Licence="SUI00000628" Ranking="19" Exporte="0" Statut="Q" Ophardt_ID="309791" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="MAYOR Lucas" TVName_short="MAYOR L." SCBName="MAYOR"/>
+  <Tireur ID="36" Nom="RIVERA-DAVID" Prenom="Paul" DateNaissance="31.12.2001" Sexe="M" Nation="SUI" Club="CAL LAUSANNE" Licence="SUI00004145" Ranking="20" Exporte="0" Statut="Q" Ophardt_ID="311180" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="RIVERA-DAVID Paul" TVName_short="RIVERA-DAVID P." SCBName="RIVERA-DAVID"/>
+  <Tireur ID="47" Nom="WANG" Prenom="Helius" DateNaissance="19.02.2002" Sexe="M" Nation="SUI" Club="ZFC ZÜRICH" Licence="SUI00000000" Ranking="22" Exporte="0" Statut="Q" Ophardt_ID="349997" paid="false" Info="inscription par le club ZFC Zürich par ADAM - LE GOUARE Guillaume" TVName_long="WANG Helius" TVName_short="WANG H." SCBName="WANG"/>
+  <Tireur ID="22" Nom="HÜRLIMANN" Prenom="David" DateNaissance="15.03.2004" Sexe="M" Nation="SUI" Club="SESAF FRIBOURG" Licence="SUI00000000" Ranking="23" Exporte="0" Statut="Q" Ophardt_ID="332415" paid="false" Info="inscription par le club SESAF Fribourg par ROUVINEZ Sven" TVName_long="HURLIMANN David" TVName_short="HURLIMANN D." SCBName="HURLIMANN"/>
+  <Tireur ID="5" Nom="BRUSCHI" Prenom="Mattia" DateNaissance="14.07.2002" Sexe="M" Nation="SUI" Club="SAL LUGANO" Licence="SUI00004700" Ranking="25" Exporte="0" Statut="Q" Ophardt_ID="311543" paid="false" Info="club registration by SAL Lugano by SALLUGANOADMIN" TVName_long="BRUSCHI Mattia" TVName_short="BRUSCHI M." SCBName="BRUSCHI"/>
+  <Tireur ID="41" Nom="SCHOUKER" Prenom="Nöe" DateNaissance="12.09.2001" Sexe="M" Nation="SUI" Club="CEFL FLORIMONT" Licence="SUI00004501" Ranking="26" Exporte="0" Statut="Q" Ophardt_ID="311411" paid="false" Info="inscription par le club CEFL Florimont par LEGER Georges" TVName_long="SCHOUKER Noee" TVName_short="SCHOUKER N." SCBName="SCHOUKER"/>
+  <Tireur ID="17" Nom="GERBER" Prenom="Jacob" DateNaissance="13.10.2003" Sexe="M" Nation="SUI" Club="AFCB BERN" Licence="SUI00000000" Ranking="30" Exporte="0" Statut="Q" Ophardt_ID="328856" paid="false" Info="Vereinsmeldung von AFCB Bern durch AFCB Bern" TVName_long="GERBER Jacob" TVName_short="GERBER J." SCBName="GERBER"/>
+  <Tireur ID="49" Nom="ZOCCO" Prenom="Matteo" DateNaissance="09.09.2002" Sexe="M" Nation="SUI" Club="SEG GENEVE" Licence="SUI00004362" Ranking="31" Exporte="0" Statut="Q" Ophardt_ID="311318" paid="false" Info="inscription par le club SEG Geneve par CAGNET Jean-Marc" TVName_long="ZOCCO Matteo" TVName_short="ZOCCO M." SCBName="ZOCCO"/>
+  <Tireur ID="31" Nom="PAVONCELLO" Prenom="Quentin" DateNaissance="03.08.2001" Sexe="M" Nation="SUI" Club="CEFL FLORIMONT" Licence="SUI00000000" Ranking="33" Exporte="0" Statut="Q" Ophardt_ID="341175" paid="false" Info="inscription par le club CEFL Florimont par LEGER Georges" TVName_long="PAVONCELLO Quentin" TVName_short="PAVONCELLO Q." SCBName="PAVONCELLO"/>
+  <Tireur ID="11" Nom="FAHLBUSCH" Prenom="Nicholas Harish" DateNaissance="18.04.2001" Sexe="M" Nation="SUI" Club="FCB BERN" Licence="SUI00000000" Ranking="34" Exporte="0" Statut="Q" Ophardt_ID="328751" paid="false" Info="Vereinsmeldung von FCB Bern durch NIELABA Gabriel" TVName_long="FAHLBUSCH Nicholas Harish" TVName_short="FAHLBUSCH N." SCBName="FAHLBUSCH"/>
+  <Tireur ID="45" Nom="VINEIS" Prenom="Sven" DateNaissance="19.12.2003" Sexe="M" Nation="SUI" Club="SEG GENEVE" Licence="SUI00003675" Ranking="38" Exporte="0" Statut="Q" Ophardt_ID="310922" paid="false" Info="inscription par le club SEG Geneve par CAGNET Jean-Marc" TVName_long="VINEIS Sven" TVName_short="VINEIS S." SCBName="VINEIS"/>
+  <Tireur ID="3" Nom="BALKA-LEDERMANN" Prenom="Clément" DateNaissance="09.01.2002" Sexe="M" Nation="SUI" Club="SEN NEUCHATEL" Licence="SUI00000000" Ranking="39" Exporte="0" Statut="Q" Ophardt_ID="324925" paid="false" Info="inscription par le club SEN Neuchatel par LONGHAIS Thibaut" TVName_long="BALKA-LEDERMANN Clement" TVName_short="BALKA-LEDERMANN C." SCBName="BALKA-LEDERMANN"/>
+  <Tireur ID="46" Nom="VISCONTI" Prenom="Riccardo" DateNaissance="23.03.2003" Sexe="M" Nation="SUI" Club="LUG LUGANO" Licence="SUI00000000" Ranking="41" Exporte="0" Statut="Q" Ophardt_ID="356080" paid="false" Info="inscription par le club LUG Lugano par BAROZZI Christian" TVName_long="VISCONTI Riccardo" TVName_short="VISCONTI R." SCBName="VISCONTI"/>
+  <Tireur ID="7" Nom="COLLENBERG" Prenom="Tito" DateNaissance="20.08.2003" Sexe="M" Nation="SUI" Club="LUG LUGANO" Licence="SUI00000000" Ranking="42" Exporte="0" Statut="Q" Ophardt_ID="317631" paid="false" Info="inscription par le club LUG Lugano par BAROZZI Christian" TVName_long="COLLENBERG Tito" TVName_short="COLLENBERG T." SCBName="COLLENBERG"/>
+  <Tireur ID="43" Nom="TRABER" Prenom="Raphael" DateNaissance="05.01.2003" Sexe="M" Nation="SUI" Club="FCSG ST. GALLEN" Licence="SUI00000000" Ranking="47" Exporte="0" Statut="Q" Ophardt_ID="333744" paid="false" Info="club registration by FCSG St. Gallen by LACHICA Edwin" TVName_long="TRABER Raphael" TVName_short="TRABER R." SCBName="TRABER"/>
+  <Tireur ID="35" Nom="REDA" Prenom="Yuji" DateNaissance="03.01.2002" Sexe="M" Nation="ITA" Club="CEFL FLORIMONT" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="382944" paid="false" Info="inscription par le club CEFL Florimont par LEGER Georges" TVName_long="REDA Yuji" TVName_short="REDA Y." SCBName="REDA"/>
+  <Tireur ID="8" Nom="DEL CONTRASTO" Prenom="Nicolò" DateNaissance="10.02.2004" Sexe="M" Nation="ITA" Club="LUG LUGANO" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="381720" paid="false" Info="inscription par le club LUG Lugano par BAROZZI Christian" TVName_long="DEL CONTRASTO Nicolò" TVName_short="DEL CONTRASTO N." SCBName="DEL CONTRASTO"/>
+  <Tireur ID="42" Nom="THOMMEN" Prenom="Ben" DateNaissance="26.04.2002" Sexe="M" Nation="SUI" Club="SESAF FRIBOURG" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="317356" paid="false" Info="inscription par le club SESAF Fribourg par ROUVINEZ Sven" TVName_long="THOMMEN Ben" TVName_short="THOMMEN B." SCBName="THOMMEN"/>
+  <Tireur ID="23" Nom="IRELAND" Prenom="Jasper" DateNaissance="13.05.2004" Sexe="M" Nation="SUI" Club="CAL LAUSANNE" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="326143" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="IRELAND Jasper" TVName_short="IRELAND J." SCBName="IRELAND"/>
+  <Tireur ID="24" Nom="KAMARAS" Prenom="Kevin" DateNaissance="16.10.2001" Sexe="M" Nation="HUN" Club="CEFL FLORIMONT" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="349065" paid="false" Info="inscription par le club CEFL Florimont par LEGER Georges" TVName_long="KAMARAS Kevin" TVName_short="KAMARAS K." SCBName="KAMARAS"/>
+  <Tireur ID="29" Nom="NEUHAUS" Prenom="Joël" DateNaissance="22.06.2004" Sexe="M" Nation="SUI" Club="SESAF FRIBOURG" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="353028" paid="false" Info="inscription par le club SESAF Fribourg par ROUVINEZ Sven" TVName_long="NEUHAUS Joel" TVName_short="NEUHAUS J." SCBName="NEUHAUS"/>
+  <Tireur ID="39" Nom="SCHALLER" Prenom="Noé" DateNaissance="12.08.2003" Sexe="M" Nation="SUI" Club="EEB BULLE" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="335340" paid="false" Info="inscription par le club EEB Bulle par BUCHS Daniel" TVName_long="SCHALLER Noe" TVName_short="SCHALLER N." SCBName="SCHALLER"/>
+  <Tireur ID="18" Nom="GERNER" Prenom="Julien" DateNaissance="19.08.2001" Sexe="M" Nation="SUI" Club="CEFL FLORIMONT" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="383988" paid="false" Info="inscription par le club CEFL Florimont par LEGER Georges" TVName_long="GERNER Julien" TVName_short="GERNER J." SCBName="GERNER"/>
+  <Tireur ID="12" Nom="FAVRE" Prenom="Armand" DateNaissance="09.03.2003" Sexe="M" Nation="SUI" Club="CES SIERRE" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="317725" paid="false" Info="inscription par le club CES Sierre par ALEXANDRA Charles" TVName_long="FAVRE Armand" TVName_short="FAVRE A." SCBName="FAVRE"/>
+  <Tireur ID="16" Nom="GARNIER" Prenom="Jules" DateNaissance="24.03.2004" Sexe="M" Nation="FRA" Club="CAL LAUSANNE" Licence="SUI00003012" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="310559" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="GARNIER Jules" TVName_short="GARNIER J." SCBName="GARNIER"/>
+  <Tireur ID="4" Nom="BROULIS" Prenom="Alexandre" DateNaissance="17.04.2003" Sexe="M" Nation="SUI" Club="CAL LAUSANNE" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="326131" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="BROULIS Alexandre" TVName_short="BROULIS A." SCBName="BROULIS"/>
+  <Tireur ID="38" Nom="ROUBAILO" Prenom="Niels" DateNaissance="04.11.2003" Sexe="M" Nation="NED" Club="FCZ ZUG" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="338968" paid="false" Info="Vereinsmeldung von FCZ Zug durch De Sepibus Severin" TVName_long="ROUBAILO Niels" TVName_short="ROUBAILO N." SCBName="ROUBAILO"/>
+  <Tireur ID="37" Nom="ROHMER" Prenom="Constant" DateNaissance="13.07.2002" Sexe="M" Nation="FRA" Club="BFC BASEL" Licence="SUI00002903" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="310493" paid="false" Info="Vereinsmeldung von BFC Basel durch Basler Fechtclub" TVName_long="ROHMER Constant" TVName_short="ROHMER C." SCBName="ROHMER"/>
+  <Tireur ID="44" Nom="VALLEE" Prenom="Tancrede" DateNaissance="01.12.2003" Sexe="M" Nation="SUI" Club="CEFL FLORIMONT" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="362905" paid="false" Info="inscription par le club CEFL Florimont par LEGER Georges" TVName_long="VALLEE Tancrede" TVName_short="VALLEE T." SCBName="VALLEE"/>
+  <Tireur ID="33" Nom="PORTMANN" Prenom="Nicolas" DateNaissance="04.12.2004" Sexe="M" Nation="SUI" Club="CAL LAUSANNE" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="317394" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="PORTMANN Nicolas" TVName_short="PORTMANN N." SCBName="PORTMANN"/>
+  <Tireur ID="1" Equipe="" Nom="" Prenom="kléé" DateNaissance="" Sexe="M" Nation="SUI" Ligue="" Club="FLT LAUFENTAL" Licence="" Ranking="0" Rating="" Exporte="0" Statut="Q" Divers1="" Divers2="" Divers3="" Divers4="" Ophardt_ID="" paid="" Info="" TVName_long="" TVName_short="" SCBName=""/>
+  <Tireur ID="32" Nom="POLGAR" Prenom="Gabriel" DateNaissance="30.01.2003" Sexe="M" Nation="SUI" Club="CAL LAUSANNE" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="317391" paid="false" Info="inscription par le club CAL Lausanne par GARNIER Vivian" TVName_long="POLGAR Gabriel" TVName_short="POLGAR G." SCBName="POLGAR"/>
+  <Tireur ID="26" Nom="KOST" Prenom="Connor" DateNaissance="26.03.2003" Sexe="M" Nation="GER" Club="SEB BASEL" Licence="SUI00001745" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="310122" paid="false" Info="Vereinsmeldung von SEB Basel durch BECKMANN Manfred" TVName_long="KOST Connor" TVName_short="KOST C." SCBName="KOST"/>
+  <Tireur ID="2" Nom="AEBERSOLD" Prenom="Alban" DateNaissance="19.03.2004" Sexe="M" Nation="SUI" Club="SEG GENEVE" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="328393" paid="false" Info="inscription par le club SEG Geneve par CAGNET Jean-Marc" TVName_long="AEBERSOLD Alban" TVName_short="AEBERSOLD A." SCBName="AEBERSOLD"/>
+  <Tireur ID="27" Nom="KREJCI" Prenom="Samuel" DateNaissance="26.03.2003" Sexe="M" Nation="SUI" Club="SESAF FRIBOURG" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="332409" paid="false" Info="inscription par le club SESAF Fribourg par ROUVINEZ Sven" TVName_long="KREJCI Samuel" TVName_short="KREJCI S." SCBName="KREJCI"/>
+  <Tireur ID="30" Nom="ORLANDO" Prenom="Noé" DateNaissance="07.02.2004" Sexe="M" Nation="SUI" Club="BFC BASEL" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="325811" paid="false" Info="Vereinsmeldung von BFC Basel durch Basler Fechtclub" TVName_long="ORLANDO Noe" TVName_short="ORLANDO N." SCBName="ORLANDO"/>
+  <Tireur ID="25" Nom="KLEY" Prenom="Julius" DateNaissance="22.05.2003" Sexe="M" Nation="SUI" Club="ZFC ZÜRICH" Licence="SUI00000000" Ranking="0" Exporte="0" Statut="Q" Ophardt_ID="317794" paid="false" Info="inscription par le club ZFC Zürich par ADAM - LE GOUARE Guillaume" TVName_long="KLEY Julius" TVName_short="KLEY J." SCBName="KLEY"/>
+ </Tireurs>
+ <Equipes/>
+ <Arbitres>
+  <Arbitre ID="1" Nom="STUTZER" Prenom="Flavia" DateNaissance="31.03.1977" Sexe="M" Nation="SUI" Ligue="" Club="BFC BASEL" Categorie="N" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="161251" Info="Vereins-Kampfrichtermeldung von BFC Basel durch Basler Fechtclub"/>
+  <Arbitre ID="2" Nom="ROGNON" Prenom="Nadia" DateNaissance="30.06.1971" Sexe="F" Nation="SUI" Ligue="" Club="SEN NEUCHATEL" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="161340" Info="inscription d´un arbitre par le club SEN Neuchatel par LONGHAIS Thibaut"/>
+  <Arbitre ID="3" Nom="SARAIVA" Prenom="Claudio" DateNaissance="23.11.1994" Sexe="M" Nation="SUI" Ligue="" Club="SEN NEUCHATEL" Categorie="N" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="169719" Info="inscription d´un arbitre par le club SEN Neuchatel par LONGHAIS Thibaut"/>
+  <Arbitre ID="4" Nom="LUPRANO" Prenom="Victor" DateNaissance="23.07.1997" Sexe="M" Nation="SUI" Ligue="" Club="CAL LAUSANNE" Categorie="N" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="169726" Info="inscription d´un arbitre par le club CAL Lausanne par GARNIER Vivian"/>
+  <Arbitre ID="5" Nom="MASSEREY" Prenom="Cyrille" DateNaissance="18.04.1997" Sexe="M" Nation="SUI" Ligue="" Club="CEB BIENNE BIEL" Categorie="N" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="169806" Info="inscription d´un arbitre par le club AFCB Bern par ROUYER Elodie"/>
+  <Arbitre ID="6" Nom="HATZ" Prenom="Nick" DateNaissance="05.06.1998" Sexe="M" Nation="SUI" Ligue="" Club="ZFC ZÜRICH" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="179406" Info="inscription d´un arbitre par le club ZFC Zürich par ADAM - LE GOUARE Guillaume"/>
+  <Arbitre ID="7" Nom="BIANCHI" Prenom="Federico" DateNaissance="20.02.2000" Sexe="M" Nation="SUI" Ligue="" Club="LUG LUGANO" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="191623" Info="inscription d´un arbitre par le club LUG Lugano par BAROZZI Christian"/>
+  <Arbitre ID="8" Nom="FAVRE" Prenom="Elénore" DateNaissance="02.01.1975" Sexe="F" Nation="SUI" Ligue="" Club="CES SIERRE" Categorie="N" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="192704" Info="inscription d´un arbitre par le club CES Sierre par ALEXANDRA Charles"/>
+  <Arbitre ID="9" Nom="DAGANI" Prenom="Mosé" DateNaissance="28.06.2000" Sexe="M" Nation="SUI" Ligue="" Club="LUG LUGANO" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="192714" Info="inscription d´un arbitre par le club LUG Lugano par BAROZZI Christian"/>
+  <Arbitre ID="10" Nom="ORICCHIO" Prenom="Giuseppe" DateNaissance="08.08.2000" Sexe="M" Nation="SUI" Ligue="" Club="LUG LUGANO" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="192801" Info="inscription d´un arbitre par le club LUG Lugano par BAROZZI Christian"/>
+  <Arbitre ID="11" Nom="POZZI" Prenom="Stefano" DateNaissance="08.07.1999" Sexe="M" Nation="SUI" Ligue="" Club="LUG LUGANO" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="192802" Info="inscription d´un arbitre par le club LUG Lugano par BAROZZI Christian"/>
+  <Arbitre ID="12" Nom="JACCOUD" Prenom="Zachary" DateNaissance="20.04.2000" Sexe="M" Nation="SUI" Ligue="" Club="SESAF FRIBOURG" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="192834" Info="inscription d´un arbitre par le club SESAF Fribourg par ROUVINEZ Sven"/>
+  <Arbitre ID="13" Nom="ROUYER" Prenom="Elodie" DateNaissance="17.08.1992" Sexe="F" Nation="SUI" Ligue="" Club="CES SIERRE" Categorie="N" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="193548" Info="inscription d´un arbitre par le club AFCB Bern par ROUYER Elodie"/>
+  <Arbitre ID="14" Nom="LUSTI" Prenom="Hannes" DateNaissance="12.02.1999" Sexe="M" Nation="SUI" Ligue="" Club="ZFC ZÜRICH" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="194685" Info="inscription d´un arbitre par le club ZFC Zürich par ADAM - LE GOUARE Guillaume"/>
+  <Arbitre ID="15" Nom="GRUTTER" Prenom="Jonas" DateNaissance="30.06.2000" Sexe="M" Nation="SUI" Ligue="" Club="CAL LAUSANNE" Categorie="N" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="195906" Info="inscription d´un arbitre par le club CAL Lausanne par GARNIER Vivian"/>
+  <Arbitre ID="16" Nom="LATINO" Prenom="Sebastian" DateNaissance="12.11.1999" Sexe="M" Nation="SUI" Ligue="" Club="LUG LUGANO" Categorie="C" Ranking="0" Exporte="0" Statut="N" Ophardt_ID="196531" Info="inscription d´un arbitre par le club LUG Lugano par BAROZZI Christian"/>
+ </Arbitres>
+ <Phases PhaseEnCours="3">
+  <TourDePoules PhaseID="2" ID="Round #1" ScoreMax="5" RepartitionEquilibre="1" Decalage="/club/" NbDePoules="7" PhaseSuivanteDesQualifies="3">
+   <Tireur REF="13" RangInitial="1" RangFinal="42" Statut="Q"/>
+   <Tireur REF="48" RangInitial="2" RangFinal="29" Statut="Q"/>
+   <Tireur REF="6" RangInitial="3" RangFinal="37" Statut="Q"/>
+   <Tireur REF="10" RangInitial="4" RangFinal="22" Statut="Q"/>
+   <Tireur REF="34" RangInitial="5" RangFinal="48" Statut="Q"/>
+   <Tireur REF="20" RangInitial="6" RangFinal="1" Statut="Q"/>
+   <Tireur REF="9" RangInitial="7" RangFinal="45" Statut="Q"/>
+   <Tireur REF="15" RangInitial="8" RangFinal="49" Statut="Q"/>
+   <Tireur REF="14" RangInitial="9" RangFinal="46" Statut="Q"/>
+   <Tireur REF="40" RangInitial="10" RangFinal="47" Statut="Q"/>
+   <Tireur REF="21" RangInitial="11" RangFinal="31" Statut="Q"/>
+   <Tireur REF="19" RangInitial="12" RangFinal="36" Statut="Q"/>
+   <Tireur REF="28" RangInitial="13" RangFinal="30" Statut="Q"/>
+   <Tireur REF="36" RangInitial="14" RangFinal="17" Statut="Q"/>
+   <Tireur REF="47" RangInitial="15" RangFinal="18" Statut="Q"/>
+   <Tireur REF="22" RangInitial="16" RangFinal="24" Statut="Q"/>
+   <Tireur REF="5" RangInitial="17" RangFinal="13" Statut="Q"/>
+   <Tireur REF="41" RangInitial="18" RangFinal="9" Statut="Q"/>
+   <Tireur REF="17" RangInitial="19" RangFinal="2" Statut="Q"/>
+   <Tireur REF="49" RangInitial="20" RangFinal="34" Statut="Q"/>
+   <Tireur REF="31" RangInitial="21" RangFinal="38" Statut="Q"/>
+   <Tireur REF="11" RangInitial="22" RangFinal="19" Statut="Q"/>
+   <Tireur REF="45" RangInitial="23" RangFinal="19" Statut="Q"/>
+   <Tireur REF="3" RangInitial="24" RangFinal="23" Statut="Q"/>
+   <Tireur REF="46" RangInitial="25" RangFinal="4" Statut="Q"/>
+   <Tireur REF="7" RangInitial="26" RangFinal="26" Statut="Q"/>
+   <Tireur REF="43" RangInitial="27" RangFinal="32" Statut="Q"/>
+   <Tireur REF="35" RangInitial="28" RangFinal="39" Statut="Q"/>
+   <Tireur REF="8" RangInitial="29" RangFinal="6" Statut="Q"/>
+   <Tireur REF="42" RangInitial="30" RangFinal="10" Statut="Q"/>
+   <Tireur REF="23" RangInitial="31" RangFinal="16" Statut="Q"/>
+   <Tireur REF="24" RangInitial="32" RangFinal="43" Statut="Q"/>
+   <Tireur REF="29" RangInitial="33" RangFinal="44" Statut="Q"/>
+   <Tireur REF="39" RangInitial="34" RangFinal="14" Statut="Q"/>
+   <Tireur REF="18" RangInitial="35" RangFinal="21" Statut="Q"/>
+   <Tireur REF="12" RangInitial="36" RangFinal="3" Statut="Q"/>
+   <Tireur REF="16" RangInitial="37" RangFinal="28" Statut="Q"/>
+   <Tireur REF="4" RangInitial="38" RangFinal="8" Statut="Q"/>
+   <Tireur REF="38" RangInitial="39" RangFinal="11" Statut="Q"/>
+   <Tireur REF="37" RangInitial="40" RangFinal="35" Statut="Q"/>
+   <Tireur REF="44" RangInitial="41" RangFinal="12" Statut="Q"/>
+   <Tireur REF="33" RangInitial="42" RangFinal="7" Statut="Q"/>
+   <Tireur REF="1" RangInitial="43" RangFinal="41" Statut="Q"/>
+   <Tireur REF="32" RangInitial="44" RangFinal="40" Statut="Q"/>
+   <Tireur REF="26" RangInitial="45" RangFinal="33" Statut="Q"/>
+   <Tireur REF="2" RangInitial="46" RangFinal="5" Statut="Q"/>
+   <Tireur REF="27" RangInitial="47" RangFinal="26" Statut="Q"/>
+   <Tireur REF="30" RangInitial="48" RangFinal="15" Statut="Q"/>
+   <Tireur REF="25" RangInitial="49" RangFinal="24" Statut="Q"/>
+   <Poule ID="1">
+    <Tireur REF="47" NoDansLaPoule="1" NbVictoires="3" NbMatches="6" TD="21" TR="18" RangPoule="4"/>
+    <Tireur REF="13" NoDansLaPoule="2" NbVictoires="2" NbMatches="6" TD="14" TR="23" RangPoule="7"/>
+    <Tireur REF="35" NoDansLaPoule="3" NbVictoires="2" NbMatches="6" TD="18" TR="25" RangPoule="5"/>
+    <Tireur REF="42" NoDansLaPoule="4" NbVictoires="4" NbMatches="6" TD="24" TR="15" RangPoule="2"/>
+    <Tireur REF="36" NoDansLaPoule="5" NbVictoires="3" NbMatches="6" TD="24" TR="21" RangPoule="3"/>
+    <Tireur REF="1" NoDansLaPoule="6" NbVictoires="2" NbMatches="6" TD="15" TR="23" RangPoule="6"/>
+    <Tireur REF="33" NoDansLaPoule="7" NbVictoires="5" NbMatches="6" TD="28" TR="19" RangPoule="1"/>
+    <Match ID="1">
+     <Tireur REF="47" Score="5" Statut="V"/>
+     <Tireur REF="13" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="2">
+     <Tireur REF="35" Score="2" Statut="D"/>
+     <Tireur REF="42" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="3">
+     <Tireur REF="36" Score="4" Statut="D"/>
+     <Tireur REF="33" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="4">
+     <Tireur REF="1" Score="5" Statut="V"/>
+     <Tireur REF="47" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="5">
+     <Tireur REF="13" Score="1" Statut="D"/>
+     <Tireur REF="35" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="6">
+     <Tireur REF="42" Score="5" Statut="V"/>
+     <Tireur REF="36" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="7">
+     <Tireur REF="33" Score="5" Statut="V"/>
+     <Tireur REF="47" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="8">
+     <Tireur REF="1" Score="0" Statut="D"/>
+     <Tireur REF="13" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="9">
+     <Tireur REF="35" Score="5" Statut="V"/>
+     <Tireur REF="36" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="10">
+     <Tireur REF="42" Score="4" Statut="D"/>
+     <Tireur REF="33" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="11">
+     <Tireur REF="47" Score="5" Statut="V"/>
+     <Tireur REF="35" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="12">
+     <Tireur REF="1" Score="0" Statut="D"/>
+     <Tireur REF="36" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="13">
+     <Tireur REF="13" Score="0" Statut="D"/>
+     <Tireur REF="42" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="14">
+     <Tireur REF="33" Score="5" Statut="V"/>
+     <Tireur REF="35" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="15">
+     <Tireur REF="47" Score="4" Statut="D"/>
+     <Tireur REF="36" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="16">
+     <Tireur REF="1" Score="2" Statut="D"/>
+     <Tireur REF="42" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="17">
+     <Tireur REF="13" Score="5" Statut="V"/>
+     <Tireur REF="33" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="18">
+     <Tireur REF="35" Score="3" Statut="D"/>
+     <Tireur REF="1" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="19">
+     <Tireur REF="47" Score="5" Statut="V"/>
+     <Tireur REF="42" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="20">
+     <Tireur REF="36" Score="5" Statut="V"/>
+     <Tireur REF="13" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="21">
+     <Tireur REF="33" Score="5" Statut="V"/>
+     <Tireur REF="1" Score="3" Statut="D"/>
+    </Match>
+   </Poule>
+   <Poule ID="2">
+    <Tireur REF="44" NoDansLaPoule="1" NbVictoires="4" NbMatches="6" TD="24" TR="18" RangPoule="2"/>
+    <Tireur REF="43" NoDansLaPoule="2" NbVictoires="2" NbMatches="6" TD="18" TR="20" RangPoule="6"/>
+    <Tireur REF="48" NoDansLaPoule="3" NbVictoires="3" NbMatches="6" TD="16" TR="20" RangPoule="4"/>
+    <Tireur REF="32" NoDansLaPoule="4" NbVictoires="2" NbMatches="6" TD="17" TR="25" RangPoule="7"/>
+    <Tireur REF="22" NoDansLaPoule="5" NbVictoires="3" NbMatches="6" TD="22" TR="23" RangPoule="3"/>
+    <Tireur REF="8" NoDansLaPoule="6" NbVictoires="5" NbMatches="6" TD="26" TR="15" RangPoule="1"/>
+    <Tireur REF="21" NoDansLaPoule="7" NbVictoires="2" NbMatches="6" TD="19" TR="21" RangPoule="5"/>
+    <Match ID="1">
+     <Tireur REF="44" Score="5" Statut="V"/>
+     <Tireur REF="43" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="2">
+     <Tireur REF="48" Score="5" Statut="V"/>
+     <Tireur REF="22" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="3">
+     <Tireur REF="32" Score="5" Statut="V"/>
+     <Tireur REF="21" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="4">
+     <Tireur REF="8" Score="1" Statut="D"/>
+     <Tireur REF="44" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="5">
+     <Tireur REF="43" Score="5" Statut="V"/>
+     <Tireur REF="48" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="6">
+     <Tireur REF="22" Score="2" Statut="D"/>
+     <Tireur REF="32" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="7">
+     <Tireur REF="21" Score="5" Statut="V"/>
+     <Tireur REF="44" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="8">
+     <Tireur REF="8" Score="5" Statut="V"/>
+     <Tireur REF="43" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="9">
+     <Tireur REF="48" Score="5" Statut="V"/>
+     <Tireur REF="32" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="10">
+     <Tireur REF="22" Score="5" Statut="V"/>
+     <Tireur REF="21" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="11">
+     <Tireur REF="44" Score="5" Statut="V"/>
+     <Tireur REF="48" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="12">
+     <Tireur REF="8" Score="5" Statut="V"/>
+     <Tireur REF="32" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="13">
+     <Tireur REF="43" Score="1" Statut="D"/>
+     <Tireur REF="22" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="14">
+     <Tireur REF="21" Score="1" Statut="D"/>
+     <Tireur REF="48" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="15">
+     <Tireur REF="44" Score="5" Statut="V"/>
+     <Tireur REF="32" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="16">
+     <Tireur REF="8" Score="5" Statut="V"/>
+     <Tireur REF="22" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="17">
+     <Tireur REF="43" Score="1" Statut="D"/>
+     <Tireur REF="21" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="18">
+     <Tireur REF="48" Score="1" Statut="D"/>
+     <Tireur REF="8" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="19">
+     <Tireur REF="44" Score="4" Statut="D"/>
+     <Tireur REF="22" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="20">
+     <Tireur REF="32" Score="0" Statut="D"/>
+     <Tireur REF="43" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="21">
+     <Tireur REF="21" Score="2" Statut="D"/>
+     <Tireur REF="8" Score="5" Statut="V"/>
+    </Match>
+   </Poule>
+   <Poule ID="3">
+    <Tireur REF="23" NoDansLaPoule="1" NbVictoires="3" NbMatches="6" TD="23" TR="18" RangPoule="3"/>
+    <Tireur REF="41" NoDansLaPoule="2" NbVictoires="5" NbMatches="6" TD="25" TR="18" RangPoule="1"/>
+    <Tireur REF="19" NoDansLaPoule="3" NbVictoires="2" NbMatches="6" TD="20" TR="26" RangPoule="6"/>
+    <Tireur REF="6" NoDansLaPoule="4" NbVictoires="2" NbMatches="6" TD="19" TR="25" RangPoule="7"/>
+    <Tireur REF="26" NoDansLaPoule="5" NbVictoires="2" NbMatches="6" TD="19" TR="23" RangPoule="5"/>
+    <Tireur REF="38" NoDansLaPoule="6" NbVictoires="4" NbMatches="6" TD="27" TR="20" RangPoule="2"/>
+    <Tireur REF="7" NoDansLaPoule="7" NbVictoires="3" NbMatches="6" TD="20" TR="23" RangPoule="4"/>
+    <Match ID="1">
+     <Tireur REF="23" Score="2" Statut="D"/>
+     <Tireur REF="6" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="2">
+     <Tireur REF="41" Score="5" Statut="V"/>
+     <Tireur REF="26" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="3">
+     <Tireur REF="19" Score="3" Statut="D"/>
+     <Tireur REF="38" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="4">
+     <Tireur REF="7" Score="0" Statut="D"/>
+     <Tireur REF="23" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="5">
+     <Tireur REF="26" Score="5" Statut="V"/>
+     <Tireur REF="6" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="6">
+     <Tireur REF="41" Score="5" Statut="V"/>
+     <Tireur REF="19" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="7">
+     <Tireur REF="38" Score="4" Statut="D"/>
+     <Tireur REF="7" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="8">
+     <Tireur REF="26" Score="5" Statut="V"/>
+     <Tireur REF="23" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="9">
+     <Tireur REF="6" Score="2" Statut="D"/>
+     <Tireur REF="19" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="10">
+     <Tireur REF="38" Score="3" Statut="D"/>
+     <Tireur REF="41" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="11">
+     <Tireur REF="26" Score="0" Statut="D"/>
+     <Tireur REF="7" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="12">
+     <Tireur REF="19" Score="3" Statut="D"/>
+     <Tireur REF="23" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="13">
+     <Tireur REF="6" Score="2" Statut="D"/>
+     <Tireur REF="38" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="14">
+     <Tireur REF="7" Score="2" Statut="D"/>
+     <Tireur REF="41" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="15">
+     <Tireur REF="19" Score="5" Statut="V"/>
+     <Tireur REF="26" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="16">
+     <Tireur REF="23" Score="4" Statut="D"/>
+     <Tireur REF="38" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="17">
+     <Tireur REF="41" Score="5" Statut="V"/>
+     <Tireur REF="6" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="18">
+     <Tireur REF="7" Score="5" Statut="V"/>
+     <Tireur REF="19" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="19">
+     <Tireur REF="38" Score="5" Statut="V"/>
+     <Tireur REF="26" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="20">
+     <Tireur REF="23" Score="5" Statut="V"/>
+     <Tireur REF="41" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="21">
+     <Tireur REF="6" Score="5" Statut="V"/>
+     <Tireur REF="7" Score="3" Statut="D"/>
+    </Match>
+   </Poule>
+   <Poule ID="4">
+    <Tireur REF="2" NoDansLaPoule="1" NbVictoires="5" NbMatches="6" TD="27" TR="16" RangPoule="1"/>
+    <Tireur REF="5" NoDansLaPoule="2" NbVictoires="4" NbMatches="6" TD="25" TR="20" RangPoule="2"/>
+    <Tireur REF="29" NoDansLaPoule="3" NbVictoires="2" NbMatches="6" TD="15" TR="26" RangPoule="7"/>
+    <Tireur REF="10" NoDansLaPoule="4" NbVictoires="3" NbMatches="6" TD="21" TR="21" RangPoule="4"/>
+    <Tireur REF="28" NoDansLaPoule="5" NbVictoires="2" NbMatches="6" TD="22" TR="24" RangPoule="5"/>
+    <Tireur REF="37" NoDansLaPoule="6" NbVictoires="2" NbMatches="6" TD="20" TR="25" RangPoule="6"/>
+    <Tireur REF="11" NoDansLaPoule="7" NbVictoires="3" NbMatches="6" TD="21" TR="19" RangPoule="3"/>
+    <Match ID="1">
+     <Tireur REF="2" Score="5" Statut="V"/>
+     <Tireur REF="5" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="2">
+     <Tireur REF="29" Score="5" Statut="V"/>
+     <Tireur REF="37" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="3">
+     <Tireur REF="10" Score="4" Statut="D"/>
+     <Tireur REF="28" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="4">
+     <Tireur REF="11" Score="5" Statut="V"/>
+     <Tireur REF="2" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="5">
+     <Tireur REF="5" Score="5" Statut="V"/>
+     <Tireur REF="29" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="6">
+     <Tireur REF="37" Score="5" Statut="V"/>
+     <Tireur REF="10" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="7">
+     <Tireur REF="28" Score="4" Statut="D"/>
+     <Tireur REF="2" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="8">
+     <Tireur REF="11" Score="1" Statut="D"/>
+     <Tireur REF="5" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="9">
+     <Tireur REF="29" Score="2" Statut="D"/>
+     <Tireur REF="10" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="10">
+     <Tireur REF="37" Score="0" Statut="D"/>
+     <Tireur REF="28" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="11">
+     <Tireur REF="2" Score="5" Statut="V"/>
+     <Tireur REF="29" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="12">
+     <Tireur REF="11" Score="1" Statut="D"/>
+     <Tireur REF="10" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="13">
+     <Tireur REF="5" Score="5" Statut="V"/>
+     <Tireur REF="37" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="14">
+     <Tireur REF="28" Score="3" Statut="D"/>
+     <Tireur REF="29" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="15">
+     <Tireur REF="2" Score="5" Statut="V"/>
+     <Tireur REF="10" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="16">
+     <Tireur REF="11" Score="4" Statut="D"/>
+     <Tireur REF="37" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="17">
+     <Tireur REF="5" Score="5" Statut="V"/>
+     <Tireur REF="28" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="18">
+     <Tireur REF="29" Score="1" Statut="D"/>
+     <Tireur REF="11" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="19">
+     <Tireur REF="2" Score="5" Statut="V"/>
+     <Tireur REF="37" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="20">
+     <Tireur REF="10" Score="5" Statut="V"/>
+     <Tireur REF="5" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="21">
+     <Tireur REF="28" Score="1" Statut="D"/>
+     <Tireur REF="11" Score="5" Statut="V"/>
+    </Match>
+   </Poule>
+   <Poule ID="5">
+    <Tireur REF="34" NoDansLaPoule="1" NbVictoires="1" NbMatches="6" TD="13" TR="26" RangPoule="7"/>
+    <Tireur REF="45" NoDansLaPoule="2" NbVictoires="3" NbMatches="6" TD="21" TR="19" RangPoule="4"/>
+    <Tireur REF="17" NoDansLaPoule="3" NbVictoires="6" NbMatches="6" TD="30" TR="13" RangPoule="1"/>
+    <Tireur REF="24" NoDansLaPoule="4" NbVictoires="2" NbMatches="6" TD="15" TR="25" RangPoule="5"/>
+    <Tireur REF="4" NoDansLaPoule="5" NbVictoires="5" NbMatches="6" TD="29" TR="21" RangPoule="2"/>
+    <Tireur REF="40" NoDansLaPoule="6" NbVictoires="1" NbMatches="6" TD="17" TR="29" RangPoule="6"/>
+    <Tireur REF="30" NoDansLaPoule="7" NbVictoires="3" NbMatches="6" TD="23" TR="15" RangPoule="3"/>
+    <Match ID="1">
+     <Tireur REF="34" Score="2" Statut="D"/>
+     <Tireur REF="24" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="2">
+     <Tireur REF="45" Score="3" Statut="D"/>
+     <Tireur REF="4" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="3">
+     <Tireur REF="17" Score="5" Statut="V"/>
+     <Tireur REF="40" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="4">
+     <Tireur REF="30" Score="5" Statut="V"/>
+     <Tireur REF="34" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="5">
+     <Tireur REF="4" Score="5" Statut="V"/>
+     <Tireur REF="24" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="6">
+     <Tireur REF="45" Score="2" Statut="D"/>
+     <Tireur REF="17" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="7">
+     <Tireur REF="40" Score="0" Statut="D"/>
+     <Tireur REF="30" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="8">
+     <Tireur REF="4" Score="5" Statut="V"/>
+     <Tireur REF="34" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="9">
+     <Tireur REF="24" Score="2" Statut="D"/>
+     <Tireur REF="17" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="10">
+     <Tireur REF="40" Score="3" Statut="D"/>
+     <Tireur REF="45" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="11">
+     <Tireur REF="4" Score="5" Statut="V"/>
+     <Tireur REF="30" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="12">
+     <Tireur REF="17" Score="5" Statut="V"/>
+     <Tireur REF="34" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="13">
+     <Tireur REF="24" Score="5" Statut="V"/>
+     <Tireur REF="40" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="14">
+     <Tireur REF="30" Score="1" Statut="D"/>
+     <Tireur REF="45" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="15">
+     <Tireur REF="17" Score="5" Statut="V"/>
+     <Tireur REF="4" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="16">
+     <Tireur REF="34" Score="4" Statut="D"/>
+     <Tireur REF="40" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="17">
+     <Tireur REF="45" Score="5" Statut="V"/>
+     <Tireur REF="24" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="18">
+     <Tireur REF="30" Score="3" Statut="D"/>
+     <Tireur REF="17" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="19">
+     <Tireur REF="40" Score="4" Statut="D"/>
+     <Tireur REF="4" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="20">
+     <Tireur REF="34" Score="5" Statut="V"/>
+     <Tireur REF="45" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="21">
+     <Tireur REF="24" Score="0" Statut="D"/>
+     <Tireur REF="30" Score="5" Statut="V"/>
+    </Match>
+   </Poule>
+   <Poule ID="6">
+    <Tireur REF="3" NoDansLaPoule="1" NbVictoires="3" NbMatches="6" TD="20" TR="20" RangPoule="3"/>
+    <Tireur REF="20" NoDansLaPoule="2" NbVictoires="6" NbMatches="6" TD="30" TR="8" RangPoule="1"/>
+    <Tireur REF="18" NoDansLaPoule="3" NbVictoires="3" NbMatches="6" TD="21" TR="20" RangPoule="2"/>
+    <Tireur REF="27" NoDansLaPoule="4" NbVictoires="3" NbMatches="6" TD="20" TR="23" RangPoule="4"/>
+    <Tireur REF="16" NoDansLaPoule="5" NbVictoires="3" NbMatches="6" TD="21" TR="25" RangPoule="5"/>
+    <Tireur REF="49" NoDansLaPoule="6" NbVictoires="2" NbMatches="6" TD="21" TR="26" RangPoule="6"/>
+    <Tireur REF="14" NoDansLaPoule="7" NbVictoires="1" NbMatches="6" TD="16" TR="27" RangPoule="7"/>
+    <Match ID="1">
+     <Tireur REF="3" Score="5" Statut="V"/>
+     <Tireur REF="27" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="2">
+     <Tireur REF="20" Score="5" Statut="V"/>
+     <Tireur REF="16" Score="0" Statut="D"/>
+    </Match>
+    <Match ID="3">
+     <Tireur REF="18" Score="5" Statut="V"/>
+     <Tireur REF="49" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="4">
+     <Tireur REF="14" Score="0" Statut="D"/>
+     <Tireur REF="3" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="5">
+     <Tireur REF="16" Score="4" Statut="D"/>
+     <Tireur REF="27" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="6">
+     <Tireur REF="20" Score="5" Statut="V"/>
+     <Tireur REF="18" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="7">
+     <Tireur REF="49" Score="5" Statut="V"/>
+     <Tireur REF="14" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="8">
+     <Tireur REF="16" Score="5" Statut="V"/>
+     <Tireur REF="3" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="9">
+     <Tireur REF="27" Score="1" Statut="D"/>
+     <Tireur REF="18" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="10">
+     <Tireur REF="49" Score="1" Statut="D"/>
+     <Tireur REF="20" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="11">
+     <Tireur REF="16" Score="5" Statut="V"/>
+     <Tireur REF="14" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="12">
+     <Tireur REF="18" Score="3" Statut="D"/>
+     <Tireur REF="3" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="13">
+     <Tireur REF="27" Score="5" Statut="V"/>
+     <Tireur REF="49" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="14">
+     <Tireur REF="14" Score="4" Statut="D"/>
+     <Tireur REF="20" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="15">
+     <Tireur REF="18" Score="5" Statut="V"/>
+     <Tireur REF="16" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="16">
+     <Tireur REF="3" Score="2" Statut="D"/>
+     <Tireur REF="49" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="17">
+     <Tireur REF="20" Score="5" Statut="V"/>
+     <Tireur REF="27" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="18">
+     <Tireur REF="14" Score="5" Statut="V"/>
+     <Tireur REF="18" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="19">
+     <Tireur REF="49" Score="4" Statut="D"/>
+     <Tireur REF="16" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="20">
+     <Tireur REF="3" Score="0" Statut="D"/>
+     <Tireur REF="20" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="21">
+     <Tireur REF="27" Score="5" Statut="V"/>
+     <Tireur REF="14" Score="0" Statut="D"/>
+    </Match>
+   </Poule>
+   <Poule ID="7">
+    <Tireur REF="9" NoDansLaPoule="1" NbVictoires="1" NbMatches="6" TD="22" TR="26" RangPoule="6"/>
+    <Tireur REF="39" NoDansLaPoule="2" NbVictoires="4" NbMatches="6" TD="23" TR="24" RangPoule="3"/>
+    <Tireur REF="31" NoDansLaPoule="3" NbVictoires="2" NbMatches="6" TD="17" TR="23" RangPoule="5"/>
+    <Tireur REF="25" NoDansLaPoule="4" NbVictoires="3" NbMatches="6" TD="22" TR="23" RangPoule="4"/>
+    <Tireur REF="46" NoDansLaPoule="5" NbVictoires="5" NbMatches="6" TD="29" TR="17" RangPoule="2"/>
+    <Tireur REF="12" NoDansLaPoule="6" NbVictoires="5" NbMatches="6" TD="28" TR="14" RangPoule="1"/>
+    <Tireur REF="15" NoDansLaPoule="7" NbVictoires="1" NbMatches="6" TD="15" TR="29" RangPoule="7"/>
+    <Match ID="1">
+     <Tireur REF="9" Score="2" Statut="D"/>
+     <Tireur REF="25" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="2">
+     <Tireur REF="39" Score="5" Statut="V"/>
+     <Tireur REF="46" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="3">
+     <Tireur REF="31" Score="1" Statut="D"/>
+     <Tireur REF="12" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="4">
+     <Tireur REF="15" Score="5" Statut="V"/>
+     <Tireur REF="9" Score="4" Statut="D"/>
+    </Match>
+    <Match ID="5">
+     <Tireur REF="46" Score="5" Statut="V"/>
+     <Tireur REF="25" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="6">
+     <Tireur REF="39" Score="2" Statut="D"/>
+     <Tireur REF="31" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="7">
+     <Tireur REF="12" Score="5" Statut="V"/>
+     <Tireur REF="15" Score="2" Statut="D"/>
+    </Match>
+    <Match ID="8">
+     <Tireur REF="46" Score="5" Statut="V"/>
+     <Tireur REF="9" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="9">
+     <Tireur REF="25" Score="5" Statut="V"/>
+     <Tireur REF="31" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="10">
+     <Tireur REF="12" Score="5" Statut="V"/>
+     <Tireur REF="39" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="11">
+     <Tireur REF="46" Score="5" Statut="V"/>
+     <Tireur REF="15" Score="1" Statut="D"/>
+    </Match>
+    <Match ID="12">
+     <Tireur REF="31" Score="1" Statut="D"/>
+     <Tireur REF="9" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="13">
+     <Tireur REF="25" Score="1" Statut="D"/>
+     <Tireur REF="12" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="14">
+     <Tireur REF="15" Score="3" Statut="D"/>
+     <Tireur REF="39" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="15">
+     <Tireur REF="31" Score="2" Statut="D"/>
+     <Tireur REF="46" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="16">
+     <Tireur REF="9" Score="4" Statut="D"/>
+     <Tireur REF="12" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="17">
+     <Tireur REF="39" Score="5" Statut="V"/>
+     <Tireur REF="25" Score="3" Statut="D"/>
+    </Match>
+    <Match ID="18">
+     <Tireur REF="15" Score="1" Statut="D"/>
+     <Tireur REF="31" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="19">
+     <Tireur REF="12" Score="3" Statut="D"/>
+     <Tireur REF="46" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="20">
+     <Tireur REF="9" Score="4" Statut="D"/>
+     <Tireur REF="39" Score="5" Statut="V"/>
+    </Match>
+    <Match ID="21">
+     <Tireur REF="25" Score="5" Statut="V"/>
+     <Tireur REF="15" Score="3" Statut="D"/>
+    </Match>
+   </Poule>
+  </TourDePoules>
+  <PhaseDeTableaux PhaseID="3" ID="" ScoreMax="10" PlacesTirees="0">
+   <Tireur REF="20" RangInitial="1" Statut="Q"/>
+   <Tireur REF="17" RangInitial="2" Statut="Q"/>
+   <Tireur REF="12" RangInitial="3" Statut="Q"/>
+   <Tireur REF="46" RangInitial="4" Statut="Q"/>
+   <Tireur REF="2" RangInitial="5" Statut="Q"/>
+   <Tireur REF="8" RangInitial="6" Statut="Q"/>
+   <Tireur REF="33" RangInitial="7" Statut="Q"/>
+   <Tireur REF="4" RangInitial="8" Statut="Q"/>
+   <Tireur REF="41" RangInitial="9" Statut="Q"/>
+   <Tireur REF="42" RangInitial="10" Statut="Q"/>
+   <Tireur REF="38" RangInitial="11" Statut="Q"/>
+   <Tireur REF="44" RangInitial="12" Statut="Q"/>
+   <Tireur REF="5" RangInitial="13" Statut="Q"/>
+   <Tireur REF="39" RangInitial="14" Statut="Q"/>
+   <Tireur REF="30" RangInitial="15" Statut="Q"/>
+   <Tireur REF="23" RangInitial="16" Statut="Q"/>
+   <Tireur REF="36" RangInitial="17" Statut="Q"/>
+   <Tireur REF="47" RangInitial="18" Statut="Q"/>
+   <Tireur REF="45" RangInitial="19" Statut="Q"/>
+   <Tireur REF="11" RangInitial="20" Statut="Q"/>
+   <Tireur REF="18" RangInitial="21" Statut="Q"/>
+   <Tireur REF="10" RangInitial="22" Statut="Q"/>
+   <Tireur REF="3" RangInitial="23" Statut="Q"/>
+   <Tireur REF="25" RangInitial="24" Statut="Q"/>
+   <Tireur REF="22" RangInitial="25" Statut="Q"/>
+   <Tireur REF="27" RangInitial="26" Statut="Q"/>
+   <Tireur REF="7" RangInitial="27" Statut="Q"/>
+   <Tireur REF="16" RangInitial="28" Statut="Q"/>
+   <Tireur REF="48" RangInitial="29" Statut="Q"/>
+   <Tireur REF="28" RangInitial="30" Statut="Q"/>
+   <Tireur REF="21" RangInitial="31" Statut="Q"/>
+   <Tireur REF="43" RangInitial="32" Statut="Q"/>
+   <Tireur REF="26" RangInitial="33" Statut="Q"/>
+   <Tireur REF="49" RangInitial="34" Statut="Q"/>
+   <Tireur REF="37" RangInitial="35" Statut="Q"/>
+   <Tireur REF="19" RangInitial="36" Statut="Q"/>
+   <Tireur REF="6" RangInitial="37" Statut="Q"/>
+   <Tireur REF="31" RangInitial="38" Statut="Q"/>
+   <Tireur REF="35" RangInitial="39" Statut="Q"/>
+   <Tireur REF="32" RangInitial="40" Statut="Q"/>
+   <Tireur REF="1" RangInitial="41" Statut="Q"/>
+   <Tireur REF="13" RangInitial="42" Statut="Q"/>
+   <Tireur REF="24" RangInitial="43" Statut="Q"/>
+   <Tireur REF="29" RangInitial="44" Statut="Q"/>
+   <Tireur REF="9" RangInitial="45" Statut="Q"/>
+   <Tireur REF="14" RangInitial="46" Statut="Q"/>
+   <Tireur REF="40" RangInitial="47" Statut="Q"/>
+   <Tireur REF="34" RangInitial="48" Statut="Q"/>
+   <Tireur REF="15" RangInitial="49" Statut="Q"/>
+   <SuiteDeTableaux ID="0" Titre="Place n°1" NbDeTableaux="6">
+    <Tableau ID="A64" Titre="Tableau de 64" Taille="64">
+     <Match ID="1">
+      <Tireur REF="20" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="2">
+      <Tireur REF="26"/>
+      <Tireur REF="43"/>
+     </Match>
+     <Match ID="3">
+      <Tireur REF="36"/>
+      <Tireur REF="34"/>
+     </Match>
+     <Match ID="4">
+      <Tireur REF="15"/>
+      <Tireur REF="23"/>
+     </Match>
+     <Match ID="5">
+      <Tireur REF="41" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="6">
+      <Tireur REF="1"/>
+      <Tireur REF="25"/>
+     </Match>
+     <Match ID="7">
+      <Tireur REF="22"/>
+      <Tireur REF="32"/>
+     </Match>
+     <Match ID="8">
+      <Tireur REF="4" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="9">
+      <Tireur REF="2" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="10">
+      <Tireur REF="6"/>
+      <Tireur REF="16"/>
+     </Match>
+     <Match ID="11">
+      <Tireur REF="18"/>
+      <Tireur REF="29"/>
+     </Match>
+     <Match ID="12">
+      <Tireur REF="44" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="13">
+      <Tireur REF="5" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="14">
+      <Tireur REF="9"/>
+      <Tireur REF="11"/>
+     </Match>
+     <Match ID="15">
+      <Tireur REF="48"/>
+      <Tireur REF="19"/>
+     </Match>
+     <Match ID="16">
+      <Tireur REF="46" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="17">
+      <Tireur REF="12" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="18">
+      <Tireur REF="37"/>
+      <Tireur REF="28"/>
+     </Match>
+     <Match ID="19">
+      <Tireur REF="45"/>
+      <Tireur REF="14"/>
+     </Match>
+     <Match ID="20">
+      <Tireur REF="39" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="21">
+      <Tireur REF="38" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="22">
+      <Tireur REF="24"/>
+      <Tireur REF="10"/>
+     </Match>
+     <Match ID="23">
+      <Tireur REF="7"/>
+      <Tireur REF="31"/>
+     </Match>
+     <Match ID="24">
+      <Tireur REF="8" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="25">
+      <Tireur REF="33" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="26">
+      <Tireur REF="35"/>
+      <Tireur REF="27"/>
+     </Match>
+     <Match ID="27">
+      <Tireur REF="3"/>
+      <Tireur REF="13"/>
+     </Match>
+     <Match ID="28">
+      <Tireur REF="42" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="29">
+      <Tireur REF="30" Score="0" Statut="V"/>
+     </Match>
+     <Match ID="30">
+      <Tireur REF="40"/>
+      <Tireur REF="47"/>
+     </Match>
+     <Match ID="31">
+      <Tireur REF="21"/>
+      <Tireur REF="49"/>
+     </Match>
+     <Match ID="32">
+      <Tireur REF="17" Score="0" Statut="V"/>
+     </Match>
+    </Tableau>
+    <Tableau ID="A32" Titre="Tableau de 32" Taille="32">
+     <Match ID="1">
+      <Tireur REF="20"/>
+     </Match>
+     <Match ID="2"/>
+     <Match ID="3">
+      <Tireur REF="41"/>
+     </Match>
+     <Match ID="4">
+      <Tireur REF="4"/>
+     </Match>
+     <Match ID="5">
+      <Tireur REF="2"/>
+     </Match>
+     <Match ID="6">
+      <Tireur REF="44"/>
+     </Match>
+     <Match ID="7">
+      <Tireur REF="5"/>
+     </Match>
+     <Match ID="8">
+      <Tireur REF="46"/>
+     </Match>
+     <Match ID="9">
+      <Tireur REF="12"/>
+     </Match>
+     <Match ID="10">
+      <Tireur REF="39"/>
+     </Match>
+     <Match ID="11">
+      <Tireur REF="38"/>
+     </Match>
+     <Match ID="12">
+      <Tireur REF="8"/>
+     </Match>
+     <Match ID="13">
+      <Tireur REF="33"/>
+     </Match>
+     <Match ID="14">
+      <Tireur REF="42"/>
+     </Match>
+     <Match ID="15">
+      <Tireur REF="30"/>
+     </Match>
+     <Match ID="16">
+      <Tireur REF="17"/>
+     </Match>
+    </Tableau>
+    <Tableau ID="A16" Titre="Tableau de 16" Taille="16">
+     <Match ID="1"/>
+     <Match ID="2"/>
+     <Match ID="3"/>
+     <Match ID="4"/>
+     <Match ID="5"/>
+     <Match ID="6"/>
+     <Match ID="7"/>
+     <Match ID="8"/>
+    </Tableau>
+    <Tableau ID="A8" Titre="Tableau de 8" Taille="8">
+     <Match ID="1"/>
+     <Match ID="2"/>
+     <Match ID="3"/>
+     <Match ID="4"/>
+    </Tableau>
+    <Tableau ID="A4" Titre="Demi-finale" Taille="4">
+     <Match ID="1"/>
+     <Match ID="2"/>
+    </Tableau>
+    <Tableau ID="A2" Titre="Finale" Taille="2">
+     <Match ID="1"/>
+    </Tableau>
+   </SuiteDeTableaux>
+  </PhaseDeTableaux>
+  <ClassementGeneral PhaseID="4" ID=""/>
+ </Phases>
+</CompetitionIndividuelle>
