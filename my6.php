@@ -131,7 +131,7 @@ function renderTourDePoules ($phaseXml, $tireurs,$arbitres, $detail)
 	
 	$pid = $p->getAttribute('ID');
 	$pis = $p->getAttribute('Piste');
-	$dat = $p->getAttribute('Date');
+	$dat = $p->getAttribute('Date').' '.$p->getAttribute('Heure');
 	$txt2 = explode(" ", $dat);
 	$txt = (count($txt2)>1)? $txt2[1]: $dat;
 
@@ -1400,7 +1400,7 @@ function suitTireurs ($topXml)
 	    case 'Poule':
 	    $pouid = $p->getAttribute('ID');
 	    $poupi = $p->getAttribute('Piste');
-	    $pouda = $p->getAttribute('Date');
+	    $pouda = $p->getAttribute('Date').' '.$p->getAttribute('Heure');
 	    $tdp   = $p->parentNode;
 	    $phaid = $tdp->getAttribute('PhaseID');
 	    $a[$ref]['ACCU']['Po'] = $pouid;  // Dans quelle poule est ce tireur
@@ -2010,7 +2010,7 @@ function suitTireursTableau ( $xml)
 
 		foreach($tab->getElementsByTagName('Match') as $m)
     		{
-                    $dat  = $m->getAttribute('Date');
+                    $dat  = $m->getAttribute('Date').' '.$m->getAttribute('Heure');
                     $pis  = $m->getAttribute('Piste');
 		    $adv = $m->getElementsByTagName('Tireur');
 		    $len     = $adv->length;
@@ -2038,7 +2038,7 @@ function suitTireursTableau ( $xml)
 			$ref1 = $adv[1]->getAttribute('REF');
 			$ran0 = $tireurs[$ref0]['ACCU']['Pl2'];
 			$ran1 = $tireurs[$ref1]['ACCU']['Pl2'];
-                        $dat  = $m->getAttribute('Date');
+                        $dat  = $m->getAttribute('Date').' '.$m->getAttribute('Heure');
                         $pis  = $m->getAttribute('Piste');
                         
 
@@ -2350,7 +2350,7 @@ function prepairMyTableau( $xml, $full )
 			    $b[$col*3+2][$wirow] = array('class'  => 'Tableau_wbo');
                                                             if ($m->getAttribute('Piste')=='')
                                     $b[$col*3+2][$wirow]['DaApprox'] = 1;
-                            $b[$col*3+2][$wirow]['Da']       = $m->getAttribute('Date');
+                            $b[$col*3+2][$wirow]['Da']       = $m->getAttribute('Date').' '.$m->getAttribute('Heure');
                             $wirow++;
 			    $previous[$tireurs[0]->getAttribute('REF')] = $maid;
 			}
@@ -2368,7 +2368,7 @@ function prepairMyTableau( $xml, $full )
 
 			    if ($tireurs[1]->getAttribute('Statut')=='')
                             {
-				$b[$col*3+2][$wirow]['Da']     = $m->getAttribute('Date');
+				$b[$col*3+2][$wirow]['Da']     = $m->getAttribute('Date').' '.$m->getAttribute('Heure');
                                 if ($m->getAttribute('Piste')=='')
                                     $b[$col*3+2][$wirow]['DaApprox'] = 1;
                             }
@@ -2380,7 +2380,7 @@ function prepairMyTableau( $xml, $full )
 			    $b[$col*3+2][$wirow] = array('class'  => 'Tableau_wbo');
                             if ($m->getAttribute('Piste')=='')
                                 $b[$col*3+2][$wirow]['DaApprox'] = 1;
-                            $b[$col*3+2][$wirow]['Da']       = $m->getAttribute('Date');
+                            $b[$col*3+2][$wirow]['Da']       = $m->getAttribute('Date').' '.$m->getAttribute('Heure');
                             $wirow++;
 			}
 			
@@ -2600,7 +2600,7 @@ function getTitre($xml)
     $r = '';
     
     $comp = $xml->getElementsByTagName('CompetitionIndividuelle');
-    $date = $comp[0]->getAttribute('Date');
+    $date = $comp[0]->getAttribute('Date').' '.$comp[0]->getAttribute('Heure');
     $sexe = $comp[0]->getAttribute('Sexe');
     $arme = $comp[0]->getAttribute('Arme');
 $cate =     $comp[0]->getAttribute('Categorie');
