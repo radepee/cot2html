@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE CompetitionIndividuelle>
 <!--
-           By BellePoule (V5.0beta31)
+           By BellePoule (V5.0beta29)
 
    http://betton.escrime.free.fr/index.php/bellepoule
 -->
-<CompetitionIndividuelle Couleur="#ada7c8" Championnat="EFC" ID="446" NetID="beb62af7" Annee="2019" Arme="E" Sexe="M" Organisateur="CAL" Categorie="M23" Niveau="CN" Date="06.04.2019" Appel="07:30" Scratch="08:00" Debut="08:30" TitreLong="U23 European Circuit" URLorganisateur="escrime.club" ScoreAleatoire="0" TailleMinimaleEquipe="3" ClassementDefautEquipe="9999" ClassementManuel="0" Lieu="Lausanne">
+<CompetitionIndividuelle Couleur="#ada7c8" Championnat="EFC" ID="446" NetID="beb62af7" Annee="2019" Arme="E" Sexe="M" Organisateur="CA Lausanne" Categorie="M23" Niveau="CN" Date="06.04.2019" Appel="07:30" Scratch="08:00" Debut="08:30" TitreLong="U23 European Circuit" URLorganisateur="escrime.club" ScoreAleatoire="0" TailleMinimaleEquipe="3" ClassementDefautEquipe="9999" ClassementManuel="0" Lieu="Lausanne">
  <Tireurs>
   <Tireur ID="103" Classement="5" Nom="STEFFEN" Prenom="Benjamin" DateNaissance="08.03.1982" Sexe="M" Nation="SUI" Club="SEB Basel" Licence="00831619" Ranking="34" Exporte="0" Statut="Q" Lateralite="G" Points="" Image="https://efc-prod.s3.amazonaws.com/people/benjamin-steffen-1-2-3/wfd/gml/F11639.jpg"/>
   <Tireur ID="4" Classement="1" Nom="BAYARD" Prenom="Alexis" DateNaissance="11.06.1996" Sexe="M" Nation="SUI" Club="SES Sion" Licence="00830128" Ranking="69" Exporte="0" Statut="Q" Lateralite="G" Points="56" Image="https://efc-prod.s3.amazonaws.com/people/alexis-bayard/lhu/gby/photo_Alexis.JPG"/>

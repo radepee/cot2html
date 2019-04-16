@@ -148,7 +148,7 @@
  </Arbitres>
  <Phases PhaseEnCours="4">
   <Pointage/>
-  <TourDePoules PhaseID="2" ID="Tour N° 1" NetID="72d27c5" ScoreMax="5" NbQualifiesParIndice="90" Affichage="Nation,RangDeDepart,Nom,Prenom,Club" AffichageScores="Nom,Prenom" AffichageClassement="Nation,rank,Nom,Prenom,Club,PoolID,RatioVictoires,Indice,TD" AffichageListe="Nom,Prenom,Club,PoolID" RepartitionEquilibre="1" Decalage="/country/club/" NbDePoules="17" PhaseSuivanteDesQualifies="3">
+  <TourDePoules PhaseID="2" ID="Tour N° 1" NetID="72d27c5" ScoreMax="5" NbQualifiesParIndice="90" Affichage="RangDeDepart,Nom,Prenom,Club" AffichageScores="Nation,Nom,Prenom" AffichageClassement="Statut,Nation,rank,Nom,Prenom,Club,PoolID,RatioVictoires,Indice,TD" AffichageListe="RangDeDepart,Nom,Prenom,Club,PoolID" RepartitionEquilibre="1" Decalage="/country/club/" NbDePoules="17" PhaseSuivanteDesQualifies="3">
    <Tireur REF="103" RangInitial="1" RangFinal="11" Statut="Q"/>
    <Tireur REF="4" RangInitial="2" RangFinal="14" Statut="Q"/>
    <Tireur REF="85" RangInitial="3" RangFinal="69" Statut="Q"/>
@@ -2430,6 +2430,6 @@
     </Tableau>
    </SuiteDeTableaux>
   </PhaseDeTableaux>
-  <ClassementGeneral PhaseID="4" ID="" Affichage="Licence,Classement,Nom,Prenom,Club,Nation" AffichageClassement="Licence,Classement,Nom,Prenom,Club,Nation"/>
+  <ClassementGeneral PhaseID="4" ID="" Affichage="DateNaissance,Classement,Nom,Prenom,Club,Nation" AffichageClassement="DateNaissance,Classement,Nom,Prenom,Club,Nation"/>
  </Phases>
 </CompetitionIndividuelle>
