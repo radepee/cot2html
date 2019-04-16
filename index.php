@@ -14,14 +14,14 @@ if (isset($_GET['file']))
     
     if (!check_filename ($filename))
     {
-        echo "Invalid file name [$filename]. redirecting to cotocot selection";
+        echo "Invalid file name [$filename]";
 //        header("Location: selcotpage.php");
         die();
     }
 }
 else
 {
-    echo "Missing file name. Redirecting to cotocot selection";
+//  Missing file name. Redirecting to cotocot selection; 
     header("Location: selcotpage.php");
     die();
 }
